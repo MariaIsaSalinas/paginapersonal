@@ -1,0 +1,148 @@
+
+#navbarSupportedContent{
+	background-color: #E8B577;
+}
+.img-fluid{
+	height: 50px;
+	background-color: #E8B577;
+}
+#mariaisabel{
+	background-color: #E8B577; 
+	padding-bottom: 75px; 
+}
+#mariaisabel .h4{
+	text-align: justify;	
+}
+#mariaisabel .img-fluid1{
+	height: 200px;
+	width: 900px;
+	padding-top: 70px;
+
+}
+#acercademi h2{
+	font-family: 'Amatic SC', cursive; 
+	font-size: 70px; 
+	padding-top: 30px; 
+	padding-bottom: 50px; 
+}
+#acercademi{
+	background-color: #FFFFFF;
+	
+}
+#acercademi .bg-image{
+	background-image: url( "../img/WhatsApp Image 2019-06-15 at 21.10.48.jpeg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	border-right: 1px solid #eee;
+	height: 750px; 
+	
+}
+#acercademi p{
+	font-family: 'Questrial', sans-serif;
+	font-size: 22px; 
+}
+#servicios{
+	background-color: #E8B577;
+	text-align: center; 
+	padding-bottom: 50px; 
+}
+#servicios .serv{
+	font-family: 'Amatic SC', cursive; 
+	font-size: 70px; 
+	padding-top: 30px; 
+	padding-bottom: 50px;
+	text-align: center;
+}
+#servicios p{
+	font-family: 'Questrial', sans-serif;
+	font-size: 22px; 
+}
+.icon-counter{
+	font-size: 40px; 
+}
+#portafolio{
+	text-align: center; 
+	padding-bottom: 50px; 
+}
+#portafolio h2{
+	font-family: 'Amatic SC', cursive; 
+	font-size: 70px; 
+	padding-top: 30px; 
+	padding-bottom: 50px;
+}
+#portafolio .img-fluid3{
+	height: 250px; 
+}
+#portafolio .img-fluid4{
+	height: 230px; 
+	align-content: center; 
+
+}
+#portafolio .img-fluid5{
+	height: 200px; 
+}
+#portafolio h3{
+	font-family: 'Amatic SC', cursive;
+	font-size: 60px; 
+}
+#portafolio h4{
+	font-family: 'Questrial', sans-serif;
+}
+.zamorano{
+	position: relative;
+}
+.hijo{
+	position: absolute;
+	left: 0;
+	width: 100%;
+	color: #fff;
+	text-align:center;
+	opacity: 0;
+	transition:  all 0.3s ease-in-out;
+	bottom: 100%;
+}
+.zamorano:hover .hijo{
+	opacity: 1;
+	transition: all 0.3s ease-in-out;
+	bottom: 50%;
+	transform: translateY(50%);
+}
+.hijo h3{
+	font-size:  14px;
+	text-transform: uppercase;
+}
+.hijo h4{
+	font-size: 14px;
+	text-transform: uppercase;
+	color: #aaa;
+}
+.bg-overlay{
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	top: 0;
+	background-color: rgba(0,0,0,0.60);
+	transition: all 0.3s ease-in-out;
+	opacity: 0;
+}
+.zamorano:hover .bg-overlay{
+	opacity: 1;
+	transition: all 0.3s ease-in-out;
+}
+#contacto{
+	background-color: #E8B577;
+	padding-bottom: 50px; 
+	
+}
+#contacto h2{
+	font-family: 'Amatic SC', cursive;
+	font-size: 60px; 
+	text-align:justify;
+	padding-bottom: 50px; 
+}
+
+
+	
+
+
